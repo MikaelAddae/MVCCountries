@@ -1,0 +1,5 @@
+C:\Users\Kelsey & Mikael\source\repos\MVC Countries\MVC Countries\obj\Debug\net6.0\MVC Countries.csproj.AssemblyReference.cache
+C:\Users\Kelsey & Mikael\source\repos\MVC Countries\MVC Countries\obj\Debug\net6.0\MVC Countries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelsey & Mikael\source\repos\MVC Countries\MVC Countries\obj\Debug\net6.0\MVC Countries.AssemblyInfoInputs.cache
+C:\Users\Kelsey & Mikael\source\repos\MVC Countries\MVC Countries\obj\Debug\net6.0\MVC Countries.AssemblyInfo.cs
+C:\Users\Kelsey & Mikael\source\repos\MVC Countries\MVC Countries\obj\Debug\net6.0\MVC Countries.csproj.CoreCompileInputs.cache
